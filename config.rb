@@ -5,7 +5,7 @@ require 'breakpoint'
 
 
 # Set this to the root of your project when deployed:
-http_path = "/bsideskrakow-2024/"
+http_path = "/"
 css_dir = "css"
 sass_dir = "sass"
 images_dir = "img"
@@ -17,7 +17,7 @@ fonts_dir = "fonts"
 # output_style = :expanded or :nested or :compact or :compressed
 
 # To enable relative paths to assets via compass helper functions. Uncomment:
-# relative_assets = true
+relative_assets = true
 
 # To disable debugging comments that display the original location of your selectors. Uncomment:
 line_comments = false
