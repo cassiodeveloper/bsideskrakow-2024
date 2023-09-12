@@ -6,12 +6,12 @@ require 'breakpoint'
 
 # Set this to the root of your project when deployed:
 http_path = "/"
-css_dir = "css"
-sass_dir = "sass"
-images_dir = "img"
+css_dir = "/bsideskrakow-2024/css"
+sass_dir = "/bsideskrakow-2024/sass"
+images_dir = "/bsideskrakow-2024/img"
 ## we're aggregating JS with grunt, so mind the underscore: _js
-javascripts_dir = "_js"
-fonts_dir = "fonts"
+javascripts_dir = "/bsideskrakow-2024/_js"
+fonts_dir = "/bsideskrakow-2024/fonts"
 
 # You can select your preferred output style here (can be overridden via the command line):
 # output_style = :expanded or :nested or :compact or :compressed
