@@ -5,7 +5,7 @@ require 'breakpoint'
 
 
 # Set this to the root of your project when deployed:
-http_path = "/"
+http_path = "/bsideskrakow-2024/"
 css_dir = "css"
 sass_dir = "sass"
 images_dir = "img"
