@@ -21,4 +21,4 @@ We’ve all heard the standard list of changes you’re supposed to make in orde
 
 We will walk through some frontend workflow tools, discuss advanced frontend performance techniques, touch on the process of automating tasks when possible, and highlight tools within Drupal that can help with automation. Some will be as simple as a module installation, and others will require more effort to set up. We will be exploring many JavaScript tools in addition to Drupal modules.
 
-This session will be worthwhile even if you caught it in 2012 at DrupalCon Munich, BADcamp, or DrupalCamp Dallas. It will be updated with tons of fresh content, so feel free to come again and learn about all new stuff.
+This session will be worthwhile even if you caught it in 2012 at DrupalCon Munich, BADcamp, or BSides Kraków Dallas. It will be updated with tons of fresh content, so feel free to come again and learn about all new stuff.

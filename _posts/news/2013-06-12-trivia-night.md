@@ -11,7 +11,7 @@ summary: Geek Trivia Night will test your overall knowledge on a variety of topi
 
 On Friday 6/21, we're wrapping up the first day of the camp with our first ever Geek Trivia Night! But, how does it work?
 
-If you've ever attended one of the North American DrupalCons, or any of the regional DrupalCamps, you may have attended Drupal trivia. Well, our trivia night is *not* like that, because the questions aren't about Drupal.
+If you've ever attended one of the North American DrupalCons, or any of the regional BSides Krakóws, you may have attended Drupal trivia. Well, our trivia night is *not* like that, because the questions aren't about Drupal.
 
 Instead, Geek Trivia Night will test your overall knowledge on a variety of topics like history, pop culture, music, TV, film, and the internet. It's basically a pop quiz on things you *actually* know -- plus awesome prizes.
 
@@ -27,7 +27,7 @@ You do not need to register your team in advance. Team names will be registered 
 If you haven't made up your mind, do know walk-ins for trivia will be welcome, space permitting.
 
 **Bring your friends!**
-Though Geek Trivia Night is brought to you by DrupalCamp Austin, everyone is welcome! Bring your non-Drupal friends and show them how cool our community is!
+Though Geek Trivia Night is brought to you by BSides Kraków, everyone is welcome! Bring your non-Drupal friends and show them how cool our community is!
 
 ## Prizes
 

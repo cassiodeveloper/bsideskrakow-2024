@@ -6,7 +6,7 @@ published: true
 
 title: The schedule is live
 author: Chris Ruppel
-summary: "We've posted the <a href=\"http://2013.drupalcampaustin.org/schedule/\">DrupalCamp Austin 2013 schedule</a>. Check it out!"
+summary: "We've posted the <a href=\"http://2013.BSides Krakówaustin.org/schedule/\">BSides Kraków 2013 schedule</a>. Check it out!"
 ---
 
 Thanks to all of the wonderful community members who took time out of their schedules to submit sessions for the camp. If you submitted a session, guess what... you rock!

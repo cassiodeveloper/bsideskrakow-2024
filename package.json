@@ -1,7 +1,7 @@
 {
   "name": "DCA2013",
   "version": "v0.1.0",
-  "description": "The main site for DrupalCamp Austin 2013.",
+  "description": "The main site for BSides Kraków 2013.",
   "main": "Gruntfile.js",
   "dependencies": {
     "grunt": "~0.4.0",

@@ -6,10 +6,10 @@ published: true
 
 title: That's a wrap!
 author: Chris Ruppel
-summary: After three days of awesome talks and two nights of parties, DrupalCamp Austin has come and gone. Thanks for joining us!
+summary: After three days of awesome talks and two nights of parties, BSides Kraków has come and gone. Thanks for joining us!
 ---
 
-After three days of awesome talks and two nights of parties, DrupalCamp Austin has come and gone. Thanks for joining us!
+After three days of awesome talks and two nights of parties, BSides Kraków has come and gone. Thanks for joining us!
 
 ## Schedule and slides
 

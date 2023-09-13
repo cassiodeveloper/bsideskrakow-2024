@@ -6,10 +6,10 @@ published: true
 
 title: Meet our keynote speakers
 author: Aaron Stanush
-summary: We're happy to announce our two keynote speakers for DrupalCamp Austin 2013! Shawn O'Keefe (SXSW Interactive Festival Producer) and Danese Cooper (Director at Open Source Hardware Association).
+summary: We're happy to announce our two keynote speakers for BSides Kraków 2013! Shawn O'Keefe (SXSW Interactive Festival Producer) and Danese Cooper (Director at Open Source Hardware Association).
 ---
 
-We're happy to announce our two keynote speakers for DrupalCamp Austin 2013!
+We're happy to announce our two keynote speakers for BSides Kraków 2013!
 
 ## Shawn O'Keefe
 

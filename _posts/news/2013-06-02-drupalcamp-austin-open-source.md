@@ -1,15 +1,15 @@
 ---
 layout: news
 category: news
-permalink: /news/drupalcamp-austin-open-source/
+permalink: /news/BSides Kraków-austin-open-source/
 published: true
 
-title: DrupalCamp Austin website is now Open Source!
+title: BSides Kraków website is now Open Source!
 author: Chris Ruppel
-summary: We're excited to announce that the DrupalCamp Austin website is totally open source! Read on to see how you can make changes to the site.
+summary: We're excited to announce that the BSides Kraków website is totally open source! Read on to see how you can make changes to the site.
 ---
 
-We're continuing to experiment with the DrupalCamp Austin website, so we're excited to announce that we've open sourced the whole thing!
+We're continuing to experiment with the BSides Kraków website, so we're excited to announce that we've open sourced the whole thing!
 
 Why bother doing this? Well, it means that as of right now **YOU can make any change to the site** that you want. This certainly isn't the first time a conference has done this, but we like the idea and think the site should be in the hands of the entire community rather than just a few organizers. Go nuts!
 
