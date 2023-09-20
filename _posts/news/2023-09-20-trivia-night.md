@@ -31,13 +31,13 @@ Though Geek Trivia Night is brought to you by BSides Kraków, everyone is welcom
 
 ## Prizes
 
-The following companies have generously agreed to donate prizes for trivia night: Hak5 and TBD.
+The following companies have generously agreed to donate prizes for trivia night: <a href="http://hak5.org/" target="_blank">HAK5</a> and TBD.
 
 We hope to see you there!
 
 And seriously, feel free to RSVP, even if your team is not full yet.
 
-<!-- p><a href="http://geektrivianight.eventbrite.com/" class="button">RSVP for Trivia Night</a></p -->
+<p><a href="#" class="button">RSVP for Geek Trivia Night</a></p>
 
 <!--Thanks to <a href="http://volacci.com/" target="_blank">Volacci</a>, our Geek Trivia Night sponsor.
 
