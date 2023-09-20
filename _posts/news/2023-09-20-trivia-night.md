@@ -9,7 +9,7 @@ author: Cassio Pereira
 summary: Geek Trivia Night will test your overall knowledge on a variety of topics. It's basically a quiz on things you *actually* know, and with awesome prizes.
 ---
 
-On Friday 13/09, we're wrapping up the first day of the camp with our first ever Geek Trivia Night! But, how does it work?
+On Friday 13/09, we're wrapping up the first day of the conference with our first ever Geek Trivia Night! But, how does it work?
 
 If you've ever watched any TV show that is based on questions and answers you know what we are talking about, just well, our trivia night is *not* like that, because the questions aren't about general stuff.
 
