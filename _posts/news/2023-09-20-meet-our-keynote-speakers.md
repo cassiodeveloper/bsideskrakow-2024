@@ -4,7 +4,7 @@ category: news
 permalink: /news/meet-our-keynote-speakers/
 published: true
 
-title: Meet our keynote speakers
+title: Meet our keynote speakers 2024
 author: Cassio Pereira
 summary: In one night you will be able to join our keynote speakers for an amazing informal chat that will allow you engage even more in the community.
 ---
