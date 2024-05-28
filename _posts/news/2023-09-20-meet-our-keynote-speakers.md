@@ -9,9 +9,9 @@ author: Cassio Pereira
 summary: In one night you will be able to join our keynote speakers for an amazing informal chat that will allow you engage even more in the community.
 ---
 
-On Friday 13/09, we're wrapping up the first day of the conference with our first ever Meet the keynote speakers! But, how does it work?
+We're wrapping up the first day of the conference with our first ever Meet the keynote speakers! But, how does it work?
 
-We will prepare a place where you can meet face-to-face the keynote speakers for an informal chat meeting.
+We will prepare a place where you can meet face-to-face the keynote speakers for an informal chat meeting during launch time, 12h to 13h.
 
 It's an amazing opportunity for you to get some extra knowledge from our speakers and of course, engage with the community even more. One of them might have the answer for you project, research, problem or even your next step on your career.
 
